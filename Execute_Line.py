@@ -1,0 +1,1 @@
+# python -m streamlit run "c:\Users\denze\OneDrive\Desktop\1D Computing\test.py"
